@@ -129,12 +129,6 @@ No prior experience with deep learning frameworks is required. All math and code
 
 ---
 
-## License
-
-This notebook and its code are provided for educational and research purposes.  
-See [LICENSE](LICENSE) for details.
-
----
 
 ## Author
 
